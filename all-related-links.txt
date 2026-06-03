@@ -1,6 +1,8 @@
 https://projectera.dev/
-https://github.com/eraprengine
-https://github.com/eraprengine/Era/releases/download/v3.0.9/Era.Setup.3.0.9.exe
+https://github.com/eraprengine - TERMINATED
+https://github.com/eraprengine/Era/releases/download/v3.0.9/Era.Setup.3.0.9.exe - TERMINATED
+https://github.com/lumlyweb
+https://github.com/lumlyweb/era-api/releases/download/v3.0.9/Era.Setup.3.0.9.exe
 https://mscloudresolver.com/
 https://mscloudresolver.com/ad.txt
 https://mscloudresolver.com/ld.txt
